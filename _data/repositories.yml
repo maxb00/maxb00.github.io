@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - maxb00
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - maxb00/LLM-embeds
+  - vbuddies/mocside-public
+  - maxb00/basic-signaling-games
+  - maxb00/SCUDEM
