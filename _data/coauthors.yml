@@ -1,8 +1,4 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
-
-"chase":
+"robinson":
   - firstname: ["Chase", "C.", "Chase Robinson"]
     url: https://github.com/Vbuddies
 
@@ -17,4 +13,3 @@
 "jens":
   - firstname: ["Jens", "J.", "Jens Kipper"]
     url: https://sites.google.com/view/jenskipper
-    
