@@ -28,12 +28,13 @@
       "position": "Programmer/Analyst I",
       "url": "https://www.mapfreinsurance.com/",
       "startDate": "2023-06-05",
-      "endDate": "Present",
+      "endDate": "Now",
       "summary": "TODO",
       "highlights": [
         "Guidewire",
         "Java", "SQL",
-        "design lifecycle"
+        "Design Lifecycle",
+        "Production Support"
       ]
     }
   ],
@@ -52,9 +53,9 @@
   "education": [
     {
       "institution": "Florida Southern College",
-      "location": "Lakeland, Florida, USA",
+      "location": "Lakeland, Florida",
       "url": "https://www.flsouthern.edu/",
-      "area": "Computer Science",
+      "area": "Computer Science: Machine Learning and Artifical Intelligence",
       "studyType": "Bachelor of Science",
       "startDate": "2019",
       "endDate": "2023",
