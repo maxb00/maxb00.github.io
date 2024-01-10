@@ -42,7 +42,7 @@
   author = {Barlow, Maxwell and Riekens, Spencer, and Bennett, William, and Eicholtz, Matthew},
   title = {Going with the Flow: An AI Approach to Solving the Puzzle Game FlowFree},
   month = {feb},
-  year = {2022},
+  year = {2023},
   publisher = {Florida Undergraduate Research Association},
   abstract = {Can we solve FlowFree? FlowFree, also known as Zig-Zag Numberlink, is a popular puzzle game where the player connects ‘flows’ on a board with the goal of finishing each connection, avoiding intersecting flows, and filling up the entire game board. We employed two methods for solving puzzles: A* search and boolean satisfiability (SAT). A* searched through a tree of board states, choosing between states one cell apart based on a heuristic that considered distance to a completed flow. The search tree was pruned with the help of several constraints of varying complexity to check for. Constraint extrapolation further allowed the framing of FlowFree as a constraint satisfaction problem (CSP), which allowed the solving of boards as SAT problems. Solving as a CSP involves the conversion of puzzles into SAT variables, indicating the truth value of possible flow directions and color at each individual cell, arranged into conjunctive normal form clauses representing the constraints, feeding to a SAT solver and subsequently decoded from a set of true variables to a solved puzzle. SAT showed significant speed improvement over A*, with the difference being more pronounced in larger puzzle sizes. Puzzles were collected from the FlowFree mobile app and converted using computer vision to text files; A GUI application was also created to allow inputting custom puzzles as well as partially solving a puzzle before solve time.},
   booktitle = {Proceedings of the 2023 Florida Undergraduate Research Conference},
@@ -51,3 +51,22 @@
   series = {FURC 2023}
 }
 
+
+@misc{ConceptualAnalysisSymposium, 
+  author = {Barlow, Maxwell and Jeiter-Johnson, Sara Jo, and Kipper, Jens},
+  title = {Machine Learning and Conceptual Complexity},
+  month = {aug},
+  year = {2022},
+  publisher = {University of Rochester},
+  abstract = {The conceptual complexity of an idea is an incredibly abstract feature to measure. We employ basic testing methods with neural networks like Large Language Models (LLMs) and multi-modal classifiers to begin to hypothesize about the markers of conceptual complexity in pre-trained and piblished models.},
+  location = {Rochester, NY, USA},
+  keywords = {language, conceptual complexity, conceptual analysis, transformers, classification},
+  booktitle = {Kearns Center Summer Research Symposium},
+  series = {Music, Media, and Minds Data Science REU},
+}
+
+@unpublished{ConceptualAnalysisPaper,
+  author = {Barlow, Maxwell and Kipper, Jens and Ma, Tianyi},
+  title = {Conceptual Complexity, Conceptual Analysis, and Machine Learning},
+  year = {2024},
+}
