@@ -1,10 +1,10 @@
 {
   "basics": {
-    "name": "Albert Einstein",
+    "name": "Maxwell Barlow",
     "label": "Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
+    "email": "barlowm15@gmail.com",
+    "phone": "(978) 501-6331",
     "url": "https://alshedivat.github.io/al-folio/",
     "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
@@ -151,12 +151,12 @@
   "languages": [
     {
       "language": "German",
-      "fluency": "Native speaker"
+      "fluency": "Native speaker",
       "icon":""
     },
     {
       "language": "English",
-      "fluency": "Fluent"
+      "fluency": "Fluent",
       "icon":""
     }
   ],
