@@ -75,7 +75,7 @@
       "date": "2019-08-15",
       "awarder": "Florida Southern College",
       "url": "https://www.flsouthern.edu/admissions/undergraduate/undergraduate-financial-aid/undergraduate-scholarships/prestige-scholarships",
-      "summary": "Full tuitiona and fees to attend Florida Southern College from Fall 2019 through Spring 2023."
+      "summary": "Full tuition and fees to attend Florida Southern College from Fall 2019 through Spring 2023."
     }
   ],
   "certificates": [
@@ -116,7 +116,7 @@
       "level": "Profficient",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Python","Java","Gosu","TypeScript","C++", "Docker",
+        "Python","Java","Gosu", "PHP","TypeScript","C++", "Docker",
         "Laravel", "Vue", "Django", "React"
       ]
     },
@@ -181,15 +181,80 @@
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
+      "name": "Machine Learning and Conceptual Analysis",
+      "summary": "Under direction from Jens Kipper, completed a summer research assitanstship as part of the Music, Media, and Minds REU at the University of Rochester. Applied novel techniques in Natural Language Processing for interdisciplinary investigation with the Philosophy of Language. Presented our work on several occasion, and are currently pursuing publication with results from the project.",
       "highlights": [
-        "Quantum Teleportation",
-        "Quantum Cryptography"
+        "Natural Language Processing",
+        "Philosophy of Language",
+        "Word Embeddings",
+        "Transformers",
+        "Undergraduate Research"
       ],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "startDate": "2022-5-23",
+      "endDate": "2022-08-15"
+    },
+    {
+      "name": "MocsIDE",
+      "summary": "Over the course of 2021, created a fully functional computer science homework online IDE and auto-grader in an attempt to replace premium options. Created in a team of three with no prior web development experience, a semester was spent planning and learning which lead to a summer of rapid development. In the following semester we polished the project and submitted our work for publication in academic journals. Accepted for publication through CCSC SE, and presented as a poster at SIGCSE 2022.",
+      "highlights": [
+        "API design",
+        "Docker", "Linux",
+        "Python", "PHP",
+        "SIGCSE 2022"
+      ],
+      "startDate": "2021-01-05",
+      "endDate": "2022-2-15",
+      "url": "https://mocside.com"
+    },
+    {
+      "name": "Orthopedic Appointment Location Search",
+      "summary": "Created a lightweight web application for an orthopedic surgeon to aid office workers in choosing an efficient appointment location for patients who could see a variety of doctors in Ohio and the surrounding states.",
+      "startDate": "2022-01-01",
+      "endDate": "2022-5-01",
+      "highlights": [
+        "Progressive Web Applications",
+        "NoSQL", "Cloud Computing",
+        "Google Firebase",
+        "Community Focused Design"
+      ]
+    },
+    {
+      "name": "SCUDEM VI",
+      "summary": "Participated in SIMIODE's SCUDEM VI challenge. In a team of three coached by Jason Elsinger, created a unique system of equations to model different behaviors of hair-stealing birds to simulate how certain behaviors affect population over time. Recived an outstanding team award for our work and presentation, which is now hosted on the SIMIODE youtube channel.",
+      "startDate": "2021-9-15",
+      "endDate": "2021-12-15",
+      "highlights": [
+        "Differential Equations",
+        "Population Modeling",
+        "Evolutionary Algorithms",
+        "Outstanding Team award"
+      ],
+      "url": "https://www.youtube.com/watch?v=h7ip31xjsvA"
+    },
+    {
+      "name": "FlowFree AI Solver",
+      "summary": "My capstone project as a computer science student, advised by Matthew Eicholtz and presented at FURC 2023. Set out to solve a popular puzzle game called FlowFree (Zig-Zag Numberlink) using AI techniques. First applied A* search with a novel heuristic to solve puzzles, then implemented a SAT reduction to solve larger puzzles with efficiency. Presented to a mostly non-technical audience, requiring pedagogial considerations in presenting math-heavy content in an interpretable fashion.",
+      "startDate": "2022-08-15",
+      "endDate": "2023-03-15",
+      "highlights": [
+        "Heuristic Search",
+        "Greedy Algorithms",
+        "Boolean Satisfiability",
+        "Graph Reduction",
+        "Design Lifecycle",
+        "Non-technical presentation"
+      ]
+    },
+    {
+      "name": "Signaling Games",
+      "summary": "After sending out *Conceptual Complexity, Conceptual Analysis, and Machine Learning*, lab work with Jens Kipper shifted to modeling Signaling Games like the ones proposed by philosopher David K. Lewis. Currently ongoing, with my contribution on hiatus pending my professional schedule.",
+      "startDate": "2023-02-01",
+      "endDate": "2023-06-05",
+      "highlights": [
+        "Jupyter Notebooks",
+        "Philosophy of Language",
+        "Reinforcement Learning"
+      ]
     }
   ]
 }
